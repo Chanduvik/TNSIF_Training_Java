@@ -23,7 +23,7 @@ class CardPayment extends Payment
 }
 class WalletPayment extends Payment
 {
-	void makePyament()
+	void makePayment()
 	{
 		System.out.println("Payment made using WalletPayment ");
 	}
